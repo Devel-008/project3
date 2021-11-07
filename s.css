@@ -1,0 +1,153 @@
+.no {
+    filter: blur(8px);
+}
+
+.contain {
+    margin-top: 100px;
+}
+
+.one {
+    margin-left: 250px;
+    font-size: 45px;
+    font-family: Arial;
+}
+
+.jha {
+    color: gray;
+    font-family: arial;
+    font-size: 30px;
+    font-weight: lighter
+}
+
+.left {
+    float: left;
+    width: 20%;
+    height: 400px;
+    border: solid red 1px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    margin-left: 500px;
+}
+
+.yolo {
+    text-align: center;
+    font-family: arial;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.we {
+    padding: 20px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 20px;
+}
+
+.dudu {
+    color: red;
+    font-family: arial;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px;
+}
+
+.rom {
+    color: tomato;
+    font-size: 30px;
+    margin-top: 50%;
+    margin-left: 85%;
+}
+
+.bubu {
+    font-size: 20px;
+    font-family: arial;
+}
+
+.but {
+    color: gray;
+    font-size: 45px;
+    font-weight: lighter;
+    font-family: Arial;
+}
+
+.center {
+    border: 1px solid tomato;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    width: 20%;
+    border-radius: 10px;
+    height: auto;
+    text-align: center;
+    box-shadow: 5px 10px 18px #888888;
+    padding: 50px;
+}
+
+.dub {
+    color: red;
+    font-family: arial;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.fun {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.center {
+    border: 1px solid tomato;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    width: 25%;
+    border-radius: 10px;
+    height: auto;
+    text-align: center;
+    box-shadow: 5px 10px 18px #888888;
+    padding: 40px;
+    background: white;
+}
+
+.dub {
+    color: red;
+    font-family: arial;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.fun {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.ma {
+    color: tomato;
+    font-family: Arial;
+}
+
+.me {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid tomato;
+    border-radius: 4px;
+}
+
+.he {
+    width: 20%;
+    font-size: medium;
+    text-align: center;
+    padding: 10px;
+    background: tomato;
+    color: white;
+    border-style: none;
+    border-radius: 50px;
+}

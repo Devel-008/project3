@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid lightgray;
+    margin-top: 2%;
+    margin-left: 40%;
+    width: 300px;
+    height: 570px;
+}
+
+h1 {
+    font-family: arial;
+    margin-top: 10%;
+    padding: 10px;
+}
+
+.he1 {
+    font-weight: bold;
+}
+
+.he2 {
+    font-weight: lighter;
+    color: grey;
+}
+
+i {
+    color: tomato;
+    padding-left: 20%;
+}
+
+.tip {
+    border: 1px solid pink;
+    border-radius: 4px;
+    width: 70%;
+    height: 30px;
+    padding: 8px;
+    margin: 10%;
+    font-family: arial;
+    color: brown;
+    box-shadow: 5px 5px lightgrey;
+}
+
+@media screen and (min-width: 800px) {
+    div .container {
+        width: 100%;
+    }
+}

@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid lightgray;
+    margin-top: 2%;
+    margin-left: 40%;
+    width: 300px;
+    height: 570px;
+    filter: blur(8px);
+}
+
+h1 {
+    font-family: arial;
+    margin-top: 10%;
+    padding: 10px;
+}
+
+.he1 {
+    font-weight: bold;
+}
+
+.he2 {
+    font-weight: lighter;
+    color: grey;
+}
+
+i {
+    color: tomato;
+    padding-left: 20%;
+}
+
+.tip {
+    border: 1px solid pink;
+    border-radius: 4px;
+    width: 70%;
+    height: 30px;
+    padding: 8px;
+    margin: 10%;
+    font-family: arial;
+    color: brown;
+    box-shadow: 5px 5px lightgrey;
+}
+
+@media screen and (min-width: 800px) {
+    div .container {
+        width: 100%;
+    }
+}
+
+.center {
+    border: 1px solid tomato;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    width: 25%;
+    border-radius: 10px;
+    height: auto;
+    text-align: center;
+    box-shadow: 5px 10px 18px #888888;
+    padding: 40px;
+    background: white;
+}
+
+.dub {
+    color: red;
+    font-family: arial;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.fun {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.ma {
+    color: tomato;
+    font-family: Arial;
+}
+
+.me {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid tomato;
+    border-radius: 4px;
+}
+
+.he {
+    width: 20%;
+    font-size: medium;
+    text-align: center;
+    padding: 10px;
+    background: tomato;
+    color: white;
+    border-style: none;
+    border-radius: 50px;
+}
